@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\POM\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\DELL\source\repos\POM\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\DELL\source\repos\POM\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\DELL\source\repos\POM\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\DELL\source\repos\POM\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\DELL\source\repos\POM\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\DELL\source\repos\POM\bin\Debug\netcoreapp3.1\POM.deps.json
+C:\Users\DELL\source\repos\POM\bin\Debug\netcoreapp3.1\POM.dll
+C:\Users\DELL\source\repos\POM\bin\Debug\netcoreapp3.1\POM.pdb
+C:\Users\DELL\source\repos\POM\obj\Debug\netcoreapp3.1\POM.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\POM\obj\Debug\netcoreapp3.1\POM.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\POM\obj\Debug\netcoreapp3.1\POM.AssemblyInfo.cs
+C:\Users\DELL\source\repos\POM\obj\Debug\netcoreapp3.1\POM.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\POM\obj\Debug\netcoreapp3.1\POM.dll
+C:\Users\DELL\source\repos\POM\obj\Debug\netcoreapp3.1\POM.pdb

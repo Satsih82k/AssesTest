@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Helper\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\DELL\source\repos\Helper\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\DELL\source\repos\Helper\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\DELL\source\repos\Helper\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\DELL\source\repos\Helper\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\DELL\source\repos\Helper\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\DELL\source\repos\Helper\bin\Debug\netcoreapp3.1\Helper.deps.json
+C:\Users\DELL\source\repos\Helper\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\DELL\source\repos\Helper\bin\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\DELL\source\repos\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Helper\obj\Debug\netcoreapp3.1\Helper.dll
+C:\Users\DELL\source\repos\Helper\obj\Debug\netcoreapp3.1\Helper.pdb
